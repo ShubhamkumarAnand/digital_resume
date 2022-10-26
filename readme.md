@@ -2,15 +2,15 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
 
-View live demo here using github pages: [Live Demo](https://ShubhamkumarAnand.github.io/Digital-Resume/)
+View live demo here using github pages: [Live Demo](https://shubhamkumaranand.github.io/digital_resume/)
 
 ## Dark Mode Preview
 
-<img src="assets\images\dark mode preview.PNG">
+<img src="assets\images\dark_mode.png">
 
 ## Light Mode Preview
 
-<img src="assets\images\light mode preview.PNG">
+<img src="assets\images\light_mode.png">
 
 ## Switching between color themes
 
